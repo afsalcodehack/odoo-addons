@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<odoo>
+    <menuitem
+        id="menu_maintenance_root"
+        name="Maintenance"
+        sequence="10"/>
+    <menuitem
+        id="menu_maintenance_workflow"
+        name="Workflow"
+        parent="menu_maintenance_root"
+        sequence="10"/>
+
+
+</odoo>
